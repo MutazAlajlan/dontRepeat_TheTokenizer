@@ -1,0 +1,12 @@
+/Users/rook/Desktop/dontRepeat/dontRepeat/bin/Debug/netcoreapp3.1/dontRepeat.deps.json
+/Users/rook/Desktop/dontRepeat/dontRepeat/bin/Debug/netcoreapp3.1/dontRepeat.runtimeconfig.json
+/Users/rook/Desktop/dontRepeat/dontRepeat/bin/Debug/netcoreapp3.1/dontRepeat.runtimeconfig.dev.json
+/Users/rook/Desktop/dontRepeat/dontRepeat/bin/Debug/netcoreapp3.1/dontRepeat.dll
+/Users/rook/Desktop/dontRepeat/dontRepeat/bin/Debug/netcoreapp3.1/dontRepeat.pdb
+/Users/rook/Desktop/dontRepeat/dontRepeat/obj/Debug/netcoreapp3.1/dontRepeat.csprojAssemblyReference.cache
+/Users/rook/Desktop/dontRepeat/dontRepeat/obj/Debug/netcoreapp3.1/dontRepeat.AssemblyInfoInputs.cache
+/Users/rook/Desktop/dontRepeat/dontRepeat/obj/Debug/netcoreapp3.1/dontRepeat.AssemblyInfo.cs
+/Users/rook/Desktop/dontRepeat/dontRepeat/obj/Debug/netcoreapp3.1/dontRepeat.csproj.CoreCompileInputs.cache
+/Users/rook/Desktop/dontRepeat/dontRepeat/obj/Debug/netcoreapp3.1/dontRepeat.dll
+/Users/rook/Desktop/dontRepeat/dontRepeat/obj/Debug/netcoreapp3.1/dontRepeat.pdb
+/Users/rook/Desktop/dontRepeat/dontRepeat/obj/Debug/netcoreapp3.1/dontRepeat.genruntimeconfig.cache
